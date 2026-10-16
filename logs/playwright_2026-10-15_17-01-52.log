@@ -1,0 +1,8 @@
+2026-10-15 17:01:52 | INFO     | Login initilize
+2026-10-15 17:01:52 | INFO     | Log file : logs/playwright_2026-10-15_17-01-52.log
+2026-10-15 17:01:54 | INFO     | ==============Test Started ==============
+2026-10-15 17:01:58 | INFO     | open the browser naviagte to https://demowebshop.tricentis.com/
+2026-10-15 17:01:58 | INFO     | click on the login link 
+2026-10-15 17:01:58 | INFO     | entee the un and pwd 
+2026-10-15 17:01:59 | INFO     | click on the login button 
+2026-10-15 17:01:59 | INFO     | logout is visible
